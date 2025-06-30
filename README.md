@@ -25,7 +25,7 @@ This project leverages **machine learning**, **quantitative finance**, and **tim
 - 🧪 What is the **real-world return** of the strategy after backtesting?  
 - ⚖️ How do we balance prediction accuracy with risk-adjusted return?
 
-> 💡 This project turns theory into action — modeling real financial strategies that investors and hedge funds care about.
+> 💡 This project turns theory into action modeling real financial strategies that investors and hedge funds care about.
 
 ---
 
